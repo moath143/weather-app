@@ -1,0 +1,21 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: cairo;
+}
+body{
+  background-color: #151723;
+  color: #fff;
+}
+
+.container{
+width: 100%;
+}
+
+
+
+h1,
+.apps{
+  text-align: center;
+}
